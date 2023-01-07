@@ -1,0 +1,2 @@
+- Install docker-compose: curl -SL https://github.com/docker/compose/releases/download/v2.14.2/docker-compose-linux-x86_64 -o /usr/bin/docker-compose
+- Executable permissions to the standalone binary: sudo chmod +x /usr/bin/docker-compose
