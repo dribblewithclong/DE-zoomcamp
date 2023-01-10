@@ -22,6 +22,8 @@ def main(params):
 
     parquet_file = pq.ParquetFile(parquet_file_name)
 
+    pd.read_parquet(parquet_file_name, engine='pyarrow').head(n=0).to_sql(name=table_name, con=engine, if_exists='replace')
+
     for batch in parquet_file.iter_batches():
         t_start = time()
         
