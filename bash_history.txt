@@ -268,3 +268,79 @@ docker-compose down
 pgcli
 cd data-engineer-zoomcamp/week_1_basics_n_setup/2_docker_sql/
 pgcli
+cd data-engineer-zoomcamp/week_1_basics_n_setup/2_docker_sql/
+docker-compose up
+cd data-engineer-zoomcamp/week_1_basics_n_setup/2_docker_sql/
+docker-compose down
+cd\
+cd testss
+docker-compose up
+sudo ls ny_taxi_postgres_data/
+ls ny_taxi_postgres_data/
+docker-compose down
+ls -l
+df -h
+docker-compose down
+ls
+cd\
+cd testss
+cd testss/
+docker-compose down
+docker-compose up
+I had problem on Linux. I wrote
+chown -R mine44 /home/mine44/DE-zoomcamp
+sudo chown -R mine44 /home/mine44/DE-zoomcamp
+cd data-engineer-zoomcamp/week_1_basics_n_setup/2_docker_sql/
+docker-compose up
+sudo cp data-engineer-zoomcamp/week_2_data_ingestion/airflow/query_data.ipynb DE-zoomcamp/week_2_data_ingestion/airflow/
+cd data-engineer-zoomcamp/week_2_data_ingestion/airflow/
+docker ps
+docker exect -it 684e473bea66
+docker exect -it 684e473bea66 bash
+docker exec -it 684e473bea66 bash
+cd data-engineer-zoomcamp/week_2_data_ingestion/airflow/
+docker-compose up
+cd data-engineer-zoomcamp/week_1_basics_n_setup/2_docker_sql/
+docker-compose down
+cd data-engineer-zoomcamp/week_2_data_ingestion/
+cd airflow/
+docker ps
+docker exec -it 94e099704ab5 bash
+docker-compose down
+cd data-engineer-zoomcamp/week_1_basics_n_setup/2_docker_sql/
+docker-compose down
+docker-compose up
+cd data-engineer-zoomcamp/week_2_data_ingestion/airflow
+docker ps
+docker exec -it 684e473bea66 bash
+docker-compose down
+docker-compose up
+cd data-engineer-zoomcamp/week_1_basics_n_setup/2_docker_sql/
+docker-compose up
+cd data-engineer-zoomcamp/week_2_data_ingestion/airflow/
+wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-01.parquet
+wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-02.parquet
+wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-02.parquet
+wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-02.parquet
+cd\
+sudo cp data-engineer-zoomcamp/week_2_data_ingestion/airflow/dags/airflow_yellow_taxi_ingestion.py DE-zoomcamp/week_2_data_ingestion/airflow/dags
+sudo cp data-engineer-zoomcamp/week_2_data_ingestion/airflow/dayellow_taxi_ingest_script.py DE-zoomcamp/week_2_data_ingestion/airflow/dags
+sudo cp data-engineer-zoomcamp/week_2_data_ingestion/airflow/yellow_taxi_ingest_script.py DE-zoomcamp/week_2_data_ingestion/airflow/dags
+sudo cp data-engineer-zoomcamp/week_2_data_ingestion/airflow/dags/yellow_taxi_ingest_script.py DE-zoomcamp/week_2_data_ingestion/airflow/dags
+sudo cp data-engineer-zoomcamp/week_2_data_ingestion/airflow/query_data.ipynb DE-zoomcamp/week_2_data_ingestion/airflow/
+psql
+cd data-engineer-zoomcamp/week_1_basics_n_setup/2_docker_sql/
+psql
+docker ps
+docker exec -it eb490a0d63d2 psql -U root -W root
+docker exec -it eb490a0d63d2 psql -U root -W ny_taxi
+cd data-engineer-zoomcamp/week_2_data_ingestion/airflow/
+docker-compose up
+cd data-engineer-zoomcamp/week_2_data_ingestion/airflow/
+docker ps
+cd data-engineer-zoomcamp/week_2_data_ingestion/airflow/
+docker ps
+cd data-engineer-zoomcamp/week_1_basics_n_setup/2_docker_sql/
+docker ps
+docker exec -it 492d0a68ee72 psql
+docker exec -it 492d0a68ee72 psql -U root -W ny_taxi
