@@ -1,1 +1,1 @@
-# DE-zoomcamp
+- This repo contains the notes for the Data Engineer Zoomcamp
