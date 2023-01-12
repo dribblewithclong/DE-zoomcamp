@@ -1,1 +1,1 @@
-- This repo contains the notes for the Data Engineer Zoomcamp
+- This repo contains the source code for the Data Engineer Zoomcamp
