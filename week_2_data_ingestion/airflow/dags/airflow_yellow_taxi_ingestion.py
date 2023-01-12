@@ -3,7 +3,7 @@ from datetime import datetime
 from airflow import DAG
 from airflow.operators.bash import BashOperator
 from airflow.operators.python import PythonOperator
-from yellow_taxi_ingest_script import ingest_callable
+from ingest_script import ingest_callable
 
 AIRFLOW_HOME = os.environ.get('AIRFLOW_HOME','/opt/airflow/')
 
