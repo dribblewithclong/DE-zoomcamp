@@ -1,1 +1,1 @@
-# DE-zoomcamp
+- This repo contains the source code for the Data Engineer Zoomcamp
