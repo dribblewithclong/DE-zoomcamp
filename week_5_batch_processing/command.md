@@ -23,3 +23,4 @@
         export PATH="${SPARK_HOME}/bin:${PATH}"
 
 - In "/home/mine44" folder: source .bashrc
+- In "/home/mine44" folder: pip install pyspark
