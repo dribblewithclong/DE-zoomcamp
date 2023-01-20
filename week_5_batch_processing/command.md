@@ -24,3 +24,10 @@
 
 - In "/home/mine44" folder: source .bashrc
 - In "/home/mine44" folder: pip install pyspark
+
+* When use download_data.sh:
+- In "/home/mine44/data-engineer-zoomcamp/week_5_batch_processing": chmod +x download_data.sh
+- In "/home/mine44/data-engineer-zoomcamp/week_5_batch_processing": ./download_data.sh yellow 2020
+- In "/home/mine44/data-engineer-zoomcamp/week_5_batch_processing": ./download_data.sh yellow 2021
+- In "/home/mine44/data-engineer-zoomcamp/week_5_batch_processing": ./download_data.sh green 2020
+- In "/home/mine44/data-engineer-zoomcamp/week_5_batch_processing": ./download_data.sh green 2021
